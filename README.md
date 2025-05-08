@@ -36,6 +36,4 @@ Aprender los conceptos básicos de HTML creando una página sencilla y analizand
 1. Guarda todos los archivos en una carpeta.
 2. Abre `index.html` en tu navegador para visualizar la página.
 
----
 
-Este `README.md` le dará una estructura clara a tu proyecto. 🚀 Puedes modificarlo según tus necesidades y agregar detalles extra si lo deseas. ¿Te gustaría incluir instrucciones sobre estilos con CSS o mejoras con JavaScript? 💡
