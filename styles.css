@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    color: #007BFF;
+}
+
+a {
+    color: #d2691e
+    font-weight: bold;
+}
+ol, ul {
+    display: inline-block; /* Permite que las listas se centren dentro del cuerpo */
+    text-align: left; /* Asegura que los elementos de la lista estén alineados a la izquierda */
+}
